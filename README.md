@@ -1,4 +1,4 @@
-# What&How is Web Components
+# What and How is Web Components
 
 ## What's web components?
 
